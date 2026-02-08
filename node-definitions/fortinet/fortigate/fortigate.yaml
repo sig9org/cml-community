@@ -40,22 +40,22 @@ device:
   interfaces:
     serial_ports: 1
     physical:
-      - port1
-      - port2
-      - port3
-      - port4
-      - port5
-      - port6
-      - port7
-      - port8
-      - port9
-      - port10
-      - port11
-      - port12
-      - port13
-      - port14
-      - port15
-      - port16
+      - p1
+      - p2
+      - p3
+      - p4
+      - p5
+      - p6
+      - p7
+      - p8
+      - p9
+      - p10
+      - p11
+      - p12
+      - p13
+      - p14
+      - p15
+      - p16
     has_loopback_zero: false
     default_count: 4
 ui:
